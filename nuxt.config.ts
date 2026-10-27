@@ -17,4 +17,7 @@ export default defineNuxtConfig({
   vuetify: {
     vuetifyOptions,
   },
+  licenseModule: {
+    allowedLicenses: ["MIT", "Apache-2.0", "ISC", "OFL-1.1"],
+  },
 });
