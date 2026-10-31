@@ -8,6 +8,9 @@ export default defineNuxtConfig({
       titleTemplate: "%s - nuxt-3-base",
     },
   },
+  faviconModule: {
+    enabled: true,
+  },
   i18n: {
     locales: getLocales(),
     defaultLocale: "en",
