@@ -1350,9 +1350,10 @@
   resolved "https://registry.yarnpkg.com/@isaacs/string-locale-compare/-/string-locale-compare-1.1.0.tgz#291c227e93fd407a96ecd59879a35809120e432b"
   integrity sha512-SQ7Kzhh9+D+ZW9MA0zkYv3VXhIDNx+LzM6EJ+/65I3QY+enU6Itte7E5XX7EWrqLW2FN4n06GWzBnPoC3th2aQ==
 
-"@jojomatik/nuxt-bundle@github:jojomatik/nuxt-bundle#5e973c2946b31946a05d1f5912aa5bc5946a767c":
-  version "2.0.0-beta.30"
-  resolved "https://codeload.github.com/jojomatik/nuxt-bundle/tar.gz/5e973c2946b31946a05d1f5912aa5bc5946a767c"
+"@jojomatik/nuxt-bundle@2.0.0-beta.31":
+  version "2.0.0-beta.31"
+  resolved "https://registry.yarnpkg.com/@jojomatik/nuxt-bundle/-/nuxt-bundle-2.0.0-beta.31.tgz#4c57710af9be4d26516d9a37f615d321d02c26a3"
+  integrity sha512-qOi6UTe+kCR6HDEVN1J22tQpMxIpAJJ2wmIZtruKdcJZYiW++k9eZNpufFv/vQ/Ae/thdG+POOitef6p++mPJw==
   dependencies:
     "@crystal-creations/crystal-components" "1.0.0-beta.49"
     "@fontsource/roboto" "5.3.0"
