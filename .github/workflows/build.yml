@@ -1,9 +1,9 @@
 name: Build
 on:
   push:
-    branches: [updates, next]
+    branches: [next]
   pull_request:
-    branches: [main, beta, updates, next]
+    branches: [main, beta, next]
 
 jobs:
   yarn_build:
