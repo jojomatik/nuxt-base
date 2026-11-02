@@ -19,5 +19,7 @@ export default defineNuxtConfig({
   },
   vuetify: {
     vuetifyOptions,
+    // Nuxt 4.6+ ships a built-in `useLayout` which collides with Vuetify's.
+    moduleOptions: { prefixComposables: ["useLayout"] },
   },
 });
