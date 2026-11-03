@@ -8,7 +8,7 @@ jobs:
     steps:
       # Warning: `beta` MUST include all commits from `main` otherwise the push will fail. This behaviour is not a bug and implemented by design.
       - name: Push `beta` to `main`
-        uses: jojomatik/sync-branch@b89209d010e748f6d2a3945e8da8a38c8a22d9e4 # v2.0.4
+        uses: jojomatik/sync-branch@0afa445fcc30c7f67e46a1ed91f58f3f42c01aad # v2.0.5
         with:
           source: "beta"
           target: "main"
