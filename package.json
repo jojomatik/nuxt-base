@@ -11,7 +11,7 @@
     "chromatic": "npx chromatic"
   },
   "dependencies": {
-    "@jojomatik/nuxt-bundle": "2.0.2-beta.1",
+    "@jojomatik/nuxt-bundle": "2.0.2",
     "nuxt": "4.6.4",
     "vue": "3.5.45"
   },
