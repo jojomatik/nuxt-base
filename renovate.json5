@@ -60,6 +60,7 @@
       "automergeStrategy": "rebase",
       "minimumReleaseAge": null,
       "ignoreUnstable": false,
+      "respectLatest": false,
       "separateMultipleMajor": true,
       "separateMultipleMinor": true,
     },
