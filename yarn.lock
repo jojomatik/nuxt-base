@@ -1208,10 +1208,10 @@
   resolved "https://registry.yarnpkg.com/@isaacs/string-locale-compare/-/string-locale-compare-1.1.0.tgz#291c227e93fd407a96ecd59879a35809120e432b"
   integrity sha512-SQ7Kzhh9+D+ZW9MA0zkYv3VXhIDNx+LzM6EJ+/65I3QY+enU6Itte7E5XX7EWrqLW2FN4n06GWzBnPoC3th2aQ==
 
-"@jojomatik/nuxt-bundle@2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@jojomatik/nuxt-bundle/-/nuxt-bundle-2.0.3.tgz#8e2e4d0a454768b9d20a0dccfe2deb4c542ed462"
-  integrity sha512-IJ76WeSIbE6AJDU0UcQkBQwPsHjbB5WuZdbB3LeqKBb2NRbeQG8tOxOq5sdBqQSTwdP0e08f+FC6F4VKc0B4nw==
+"@jojomatik/nuxt-bundle@2.0.4-beta.1":
+  version "2.0.4-beta.1"
+  resolved "https://registry.yarnpkg.com/@jojomatik/nuxt-bundle/-/nuxt-bundle-2.0.4-beta.1.tgz#fa810826db6fe14e9d0ebce3c123d54737fa8bc0"
+  integrity sha512-4LC3+M1KPB1D2JwNL8WbBqMEk65mlbEQwN76/EqoiUuySAj3Tn8ETRMmw9hGW4vh3/DQW5FtqDxSi1A6IHNOhw==
   dependencies:
     "@crystal-creations/crystal-components" "1.0.0"
     "@fontsource/roboto" "5.3.0"
@@ -1226,7 +1226,7 @@
     "@storybook/addon-docs" "10.6.7"
     "@storybook/addon-links" "10.6.7"
     "@types/node" "26.6.6"
-    chromatic "18.15.0"
+    chromatic "18.15.1"
     conventional-changelog-conventionalcommits "10.4.1"
     eslint-config-prettier "10.1.8"
     eslint-plugin-prettier "5.5.7"
@@ -4838,10 +4838,10 @@ chownr@^3.0.0:
   resolved "https://registry.yarnpkg.com/chownr/-/chownr-3.0.0.tgz#9855e64ecd240a9cc4267ce8a4aa5d24a1da15e4"
   integrity sha512-+IxzY9BZOQd/XuYPRmrvEVjF/nqj5kgT4kEq7VofrDoM1MxoRjEWkrCC3EtLi59TVawxTAn+orJwFQcrqEN1+g==
 
-chromatic@18.15.0:
-  version "18.15.0"
-  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-18.15.0.tgz#cd9d110b0022de25be27fa275aa5ea8ea7c7a87b"
-  integrity sha512-MxxIOHXayuwGWlYbbf6JB96uSzpybxtIA6oAmjMZavH1YrsIn9bZGaztQA128SJR4oOQBQ5p+5rpT98VX8UzDQ==
+chromatic@18.15.1:
+  version "18.15.1"
+  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-18.15.1.tgz#0fb4b01e189f38cd484a7ea325992a860ff93341"
+  integrity sha512-h8wshAe1nvfBlCVnAoYno264pAF5CCwebpau6DzGUqBTZ6dIeDFl+LDMHkVfYthEDJp37XT9f0EFgh98jEFyfQ==
   dependencies:
     semver "^7.3.5"
 
