@@ -1208,10 +1208,10 @@
   resolved "https://registry.yarnpkg.com/@isaacs/string-locale-compare/-/string-locale-compare-1.1.0.tgz#291c227e93fd407a96ecd59879a35809120e432b"
   integrity sha512-SQ7Kzhh9+D+ZW9MA0zkYv3VXhIDNx+LzM6EJ+/65I3QY+enU6Itte7E5XX7EWrqLW2FN4n06GWzBnPoC3th2aQ==
 
-"@jojomatik/nuxt-bundle@2.0.4-beta.6":
-  version "2.0.4-beta.6"
-  resolved "https://registry.yarnpkg.com/@jojomatik/nuxt-bundle/-/nuxt-bundle-2.0.4-beta.6.tgz#0c1d3cefa28cb6c20ac20ab1a6b374d0b8c78811"
-  integrity sha512-vm4SCwXIWpXc0wS2Hx+YUz99Df0HGyAYbu4u8kjE4sFRwf7x3Te+TKSbpwLSrnSv+XjfboCj7J8qTYZOTakgBQ==
+"@jojomatik/nuxt-bundle@2.0.4-beta.7":
+  version "2.0.4-beta.7"
+  resolved "https://registry.yarnpkg.com/@jojomatik/nuxt-bundle/-/nuxt-bundle-2.0.4-beta.7.tgz#28d592253e44c14c1716bc9213935a8faf2fb36d"
+  integrity sha512-IoQM9aSUeqWIkkJysEuckJYabbi9PJvfVkZamKV64fZkUnuPx01Ro8BPqU7cHXazt4EqHcHDZkzGyczWmHHIGQ==
   dependencies:
     "@crystal-creations/crystal-components" "1.0.0"
     "@fontsource/roboto" "5.3.0"
@@ -1220,12 +1220,12 @@
     "@nuxt/image" "2.2.1"
     "@nuxtjs/i18n" "10.6.0"
     "@nuxtjs/seo" "6.1.0"
-    "@nuxtjs/storybook" "10.0.3"
+    "@nuxtjs/storybook" "10.0.4"
     "@semantic-release/exec" "7.1.0"
     "@semantic-release/git" "11.0.1"
     "@storybook/addon-docs" "10.6.8"
     "@storybook/addon-links" "10.6.8"
-    "@types/node" "26.6.6"
+    "@types/node" "26.6.7"
     chromatic "18.15.2"
     conventional-changelog-conventionalcommits "10.4.1"
     eslint-config-prettier "10.1.8"
@@ -2047,14 +2047,14 @@
     ufo "^1.6.4"
     ultrahtml "^1.7.0"
 
-"@nuxtjs/storybook@10.0.3":
-  version "10.0.3"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/storybook/-/storybook-10.0.3.tgz#7c3ffb793d804fa710ad95627e6af7f2c8557993"
-  integrity sha512-nLXuuj3MMNt8zDhYnHlVfqcNn5b2Y+KUMRKVG4TRDgZqa/2ZMTTL8HwQM3do9GOpvDcyHa1PcvlLMx1R96bsag==
+"@nuxtjs/storybook@10.0.4":
+  version "10.0.4"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/storybook/-/storybook-10.0.4.tgz#f19a31f4587dfc35e387330f94b6f30d4ec484a1"
+  integrity sha512-zITh3Ucb7mqjZGMZWHsYkhvFrlLcYGJ8kZwR/UULicfxoER7zPrStoKYKOZfEqKanvrQRgcUZv8P94tOdScPqA==
   dependencies:
     "@nuxt/devtools-kit" "^3.0.0"
     "@nuxt/kit" "^3.18.1 || ^4.0.0"
-    "@storybook-vue/nuxt" "10.0.3"
+    "@storybook-vue/nuxt" "10.0.4"
     chalk "^5.6.2"
     consola "^3.4.2"
     defu "^6.1.4"
@@ -3451,10 +3451,10 @@
   resolved "https://registry.yarnpkg.com/@speed-highlight/core/-/core-1.2.24.tgz#e70acdec4f12420f6ec642ce987150622529bd67"
   integrity sha512-qeW2e1l78afw8VhRPfPQ1Gjj+KU5XFQ/OFV5ti6eTa9bruO7mJyZtA4vw0ofqmA3tKCkROE9xLk3VZoeRc98nw==
 
-"@storybook-vue/nuxt@10.0.3":
-  version "10.0.3"
-  resolved "https://registry.yarnpkg.com/@storybook-vue/nuxt/-/nuxt-10.0.3.tgz#4f6db5bcbd5962769e43747b8381ae467bcc6a77"
-  integrity sha512-2/D7bWPxieEuPQVcr6WcA0YKXOJZ3nmZBn9d77TrAJbL13upHBudyIhdJLlNV6tL8mxWP7DWzFFDYyAJOSzoMQ==
+"@storybook-vue/nuxt@10.0.4":
+  version "10.0.4"
+  resolved "https://registry.yarnpkg.com/@storybook-vue/nuxt/-/nuxt-10.0.4.tgz#bf2877152f5f07f711dda9cb2f043795a0130fed"
+  integrity sha512-7FJLafYArQj4qY9pHKBEXbuYx2V2/mfxePtYZQtDzA1IoBtNj8GR9+gEUlnYcc+T5mMkH/H9ciIpk/qWs2fPPw==
   dependencies:
     "@nuxt/kit" "^4.0.0"
     "@nuxt/schema" "^4.0.0"
@@ -3634,10 +3634,10 @@
   resolved "https://registry.yarnpkg.com/@types/mdx/-/mdx-2.0.14.tgz#c1e54113265b152021ab0afe0434e3cadd90bfe3"
   integrity sha512-T48PeuJtvLosNTPVhfnIp3i/n3a4g4Bad7YCq5k64D4u7NwDrAotikQ+5+sjtUvBmxCMlbo3dVL+C2dP0rWHzg==
 
-"@types/node@26.6.6":
-  version "26.6.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.6.6.tgz#9ed7b5817e728ed9216ef7c5b7d373fe3b777104"
-  integrity sha512-MzQj+8Kx3XI40OmUAE6Qoh58ZMNstNNMwn2nfd3qWsfe7nDNSqJNzes4njhz6AHwrSHOffSLwXU6yb474Q4aog==
+"@types/node@26.6.7":
+  version "26.6.7"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.6.7.tgz#882494202d3e60d3b83829bc4f9be7039458874a"
+  integrity sha512-tovuRfrUILu6v46bMG+BgXxMvsqPBx2WO2as8Rpln+JTff1dbexMtAM4KFTejmL0axsnSWViCW7MecUQpLuBRA==
   dependencies:
     undici-types "~8.9.0"
 
